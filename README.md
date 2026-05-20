@@ -90,8 +90,8 @@ These 6 features were selected out of 10 based on Chi-Squared scores.
 
 | File | Description |
 |------|-------------|
-| `diabetes-analysis.ipynb` | Full notebook — EDA, preprocessing, all 5 models |
-| `Diabetes_dataset.csv` | PIMA Indians diabetes dataset |
+| `Diabetes_analysis.ipynb` | Full notebook — EDA, preprocessing, all 5 models |
+| `Diabetes.csv` | PIMA Indians diabetes dataset |
 | `AIML Project Report.pdf` | Full project report with methodology and findings |
 
 ---
